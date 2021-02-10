@@ -1,6 +1,6 @@
 import React from 'react';
 import {render} from '@testing-library/react';
-import EventCard from '../EventCard';
+import EventCard from '../Components/EventCard';
 
 const event = {
   id: "ocd-event/cc66cc1d-a825-4ad9-8e27-a73f4be8c9af",
